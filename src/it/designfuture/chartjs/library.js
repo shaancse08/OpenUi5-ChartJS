@@ -17,7 +17,7 @@ sap.ui.define([
 		 *
 		 * @namespace
 		 * @name it.designfuture.chartjs
-		 * @author Emanuele Ricci <stermi@gmail.com>
+		 * @author Avik Saha <shaancse08@gmail.com>
 		 * @version ${version}
 		 * @public
 		 */
